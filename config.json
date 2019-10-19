@@ -1,0 +1,11 @@
+{
+    "pyowm":
+    {
+        "key":"<YOUR_PYOWN_KEY>",
+        "location":"<YOUR_LOCATION>",
+        "tempreture_unit":"<UNIT>",
+        "lat":"<LAT_COORDINATE>",
+        "lng":"<LNG_COORDINATE>"
+    },
+    "music_folder_path":"<MUSIC_FOLDER_PATH>"
+}
